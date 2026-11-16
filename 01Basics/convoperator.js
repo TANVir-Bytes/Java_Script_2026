@@ -54,7 +54,9 @@ console.log( (3+4) * 5 % 3); // 7 * 5 = 35 / 3 = 11 ,35 % 3 = 2
 
 let gamecounter = 100;
 ++gamecounter ;
-console.log(gamecounter);
+console.log(gamecounter); 
+
+// interview : prefix increment and postfix increment
 
 
 
